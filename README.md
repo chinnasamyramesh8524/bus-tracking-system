@@ -107,6 +107,6 @@ bus-tracking-system/
 ---
 
 ## 👨‍💻 Author
-CHINNASAMY  
+CHINNASAMY R
 📧 chinnasamyramesh8524@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/chinnasamyramesh8524/) | [GitHub](https://github.com/chinnasamyramesh8524)
