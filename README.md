@@ -107,6 +107,6 @@ bus-tracking-system/
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+CHINNASAMY  
+📧 chinnasamyramesh8524@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/chinnasamyramesh8524/) | [GitHub](https://github.com/chinnasamyramesh8524)
